@@ -1,5 +1,61 @@
-
 # Discord Clone
+<img width="238" alt="Screenshot 2024-06-21 18 51 26" src="https://github.com/s0umaaa/discord-clone/assets/62178616/3d059176-2c6a-4d15-bcce-5087c9d6c38e">
+
+
+日本語の説明文は後半にあります
+
+## ■ App URL
+https://discord-clone-e50f4.web.app/
+
+## ■ Service Overview
+This is a clone of the communication app "Discord," built from scratch using React, Redux, TypeScript, and Firebase.
+
+## ■ Motivation for Creating the App
+I wanted to learn the attractive features of Discord and improve my technical skills by replicating them. By implementing functions such as sending and receiving messages, adding channels, and many other features, my goal was to acquire the skills necessary for actual project development.
+
+## ■ Thoughts Behind the App and Future Aspirations
+**"Acquire practical skills"**<br>
+Through this project, I learned the entire development process of the frontend. Moreover, by building a functional application, I was able to gain not only theoretical knowledge but also practical skills. In the future, I plan to add more advanced features based on this app to make it more complete.
+
+## ■ Implemented Features
+
+- **Add Channel:** Users can add new channels.
+- **Send Message:** Users can send messages within channels.
+
+## ■ Challenges
+
+- **Message Deletion:** Implementing the message deletion function.
+- **Additional Features:** Developing features to enhance the user experience.
+- **Message ID Assignment:** Properly assigning unique IDs to messages.
+
+## ■ Main Pages and Features
+
+| Top Page | Login Page  |
+| ---- | ---- |
+| <img width="443" alt="Screenshot 2024-06-21 18 52 33" src="https://github.com/s0umaaa/discord-clone/assets/62178616/712cb9f7-caca-4093-9c81-4df4ebfefbcb"> | <img width="470" alt="Screenshot 2024-06-21 18 59 44" src="https://github.com/s0umaaa/discord-clone/assets/62178616/33c62330-07b5-4f8e-be41-67d20a518268"> |
+| The top page is designed to be simple. | Implemented login using Google account. |
+
+| Channel Page |
+| ---- |
+|![github](https://github.com/s0umaaa/discord-clone/assets/62178616/8fc052ea-c1f2-436b-85c1-4530f2715f04)|
+| On the channel page, users can add new channels with any name they like. The chat area allows scrolling through old and new messages. |
+
+| Chat Page |
+| ---- |
+| ![message](https://github.com/s0umaaa/discord-clone/assets/62178616/e1de7371-3212-435f-8819-4baba8607a74)|
+| When you type in the chat area and press the Enter key, the message is posted to the chat page of the selected channel. User icons are retrieved and displayed in the chat area. |
+
+## ■ Technologies Used
+
+#### Frontend
+- React
+- Redux
+- TypeScript
+- Firebase
+
+# 日本語
+
+## ディスコードクローン
 <img width="238" alt="スクリーンショット 2024-06-21 18 51 26" src="https://github.com/s0umaaa/discord-clone/assets/62178616/3d059176-2c6a-4d15-bcce-5087c9d6c38e">
 
 
